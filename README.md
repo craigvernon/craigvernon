@@ -4,7 +4,7 @@
 - 💞️ I’m looking to continue strengthening my SQL, Python, and Excel skills. With SQL being a mandoratory skill in most Data Analysis jobs, SQL practice is my main focus.  
 - 📫 I can be reached by this email address: craigdekyvernon@hotmail.co.uk
 
-<img_src = "https://github-readme-stats.vercel.app/api?username=craigvernon&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src = "https://github-readme-stats.vercel.app/api?username=craigvernon&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 
