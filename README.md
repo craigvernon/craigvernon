@@ -1,5 +1,3 @@
-Greetings..
-
 - 👋 Hi, I’m @craigvernon
 - 👀 I’m interested in Data Analysis and Business Analysis
 - 🌱 I’m currently learning SQL and Python. I am a savvy user with Excel but still building on my Excel knowledge. I do consider myself to be a confident SQL user as well.
